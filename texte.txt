@@ -1,2 +1,3 @@
 Fichier qui contient quelques lignes.
 Pour faire un peu de remplissage.
+On ajoute encore du texte.
